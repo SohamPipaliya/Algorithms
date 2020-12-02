@@ -1,0 +1,16 @@
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.exe
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.deps.json
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.runtimeconfig.json
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.runtimeconfig.dev.json
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.dll
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\ref\Algorithms.dll
+C:\Users\SOHAM\Desktop\Algorithms\bin\Debug\netcoreapp5.0\Algorithms.pdb
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.csprojAssemblyReference.cache
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.AssemblyInfoInputs.cache
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.AssemblyInfo.cs
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.dll
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\ref\Algorithms.dll
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.pdb
+C:\Users\SOHAM\Desktop\Algorithms\obj\Debug\netcoreapp5.0\Algorithms.genruntimeconfig.cache
