@@ -486,9 +486,5 @@ namespace Algorithms
             return arr;
         }
         #endregion
-
-        #region MyRegion
-
-        #endregion
     }
 }
